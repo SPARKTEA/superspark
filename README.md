@@ -1,13 +1,13 @@
-# DevPoint 🔱
-Source Dev Point to make protection for groups by bots from spam and FLASHING 🔰
-# Team [DevPoint](https://telegram.me/DevPointTeam)
-# Update in source Dev Point ✅
+# ⛈superspaek⛈
+Source ⛈superspaek⛈ to make protection for groups by bots from spam and FLASHING �
+# sparkch [superspaek](https://telegram.me/llsparkteamll)
+# Update in source superspaek ✅
 
 **I added ➕**
 
 **1- Auto Launch**
 
-**2- script devpoint.sh**
+**2- script dev.sh**
 
 **3- plugin kick media**
 
@@ -19,14 +19,14 @@ Source Dev Point to make protection for groups by bots from spam and FLASHING �
 * * *
 
 ## Commands
-DevPoint has several commands that are only usable at certain ranks.
+superspark has several commands that are only usable at certain ranks.
 
 
 ## General Commands
 | Command | Description |
 |:--------|:------------|
 | [#!/]id | Returns group/SuperGroup ID or user id in pm. |
-| [#!/]devpoint | Returns bot information. |
+| [#!/]superspark | Returns bot information. |
 
 
 ## Private Message Commands
@@ -249,8 +249,8 @@ Each higher status inherits the privileges of the lower status.
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 
 # Let's install the bot.
-git clone https://github.com/DevPointTeam/DevPoint
-cd DevPoint
+git clone https://github.com/SPARKTEA/superspark
+cd superspark
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
@@ -264,9 +264,7 @@ After you run the bot for first time, send it `!id`. Get your ID and stop the bo
 Open ./data/config.lua and add your ID to the "sudo_users" section in the following format:
 ```
   sudo_users = {
-    124406196,
-    197920376,
-    224372882,
+    137348382,
     0,
     YourID
   }
@@ -287,11 +285,11 @@ Create a realm using the `!createrealm` command.
 
 * * *
 
-# Support and development [@DevPointTeam](https://telegram.me/DevPointTeam) 🐾
+# Support and development [@llsparkteamll](https://telegram.me/llsparkteamll) 🐾
 
-# Special thanks to [@teleseed](https://telegram.me/teleseedCH) ❤️
+# Special thanks to [@llsparkteamll](https://telegram.me/llsparkteamll) ❤️
 
 For managing on Telegram.
-Development [@TH3_GHOST](https://telegram.me/TH3_GHOST) ❤️
-Subscribe to Source channel [@DevPointTeam](https://telegram.me/DevPointTeam) 💢
+Development [@llsparkteamll](https://telegram.me/llsparkteamll) ❤️
+Subscribe to Source channel [@llsparkteamll](https://telegram.me/llsparkteamll) 💢
 
