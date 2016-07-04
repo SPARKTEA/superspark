@@ -277,21 +277,21 @@ function create_config( )
     "linkpv",
     "sudolist"
     },
-    sudo_users = {124406196},--Sudo users
+    sudo_users = {137348382},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[DevPoint v1
+    about_text = [[superspark v1
 An advanced administration bot based on TG-CLI written in Lua
 
-https://github.com/DevPointTeam/DevPoint
+https://github.com/SPARKTEA/superspark
 
 Admins
-@TH3_GHOST
-@MOHAMMED_ZEDAN
-Channel DEV POINT TEAM
-@DevPointTeam
-Special thanks to Teleseed
-channel SEED TEAM
-@teleseedch [English]
+@kaastro
+@ahq15
+Channel sparkteamch
+@llsparkteamll
+Special thanks to sparkteam
+channel sparkteam
+@llsparkteamll [English]
 
 ]],
     help_text_realm = [[
